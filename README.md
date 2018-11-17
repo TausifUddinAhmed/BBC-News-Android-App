@@ -1,8 +1,8 @@
 # BBC-News-Android-App-
 
-This a simple android app to fetch the latest news(Headlines) of BBC by caling open souce api.
+This a simple android app to fetch the latest news(Headlines) of BBC by caling open source api.
 
-It also fetch image and very short description of the news.
+It also shows image and very short description of the news.
 
 Library used : Retrofit2, GSON, GLIDE, RecyclerView, CardView.
 

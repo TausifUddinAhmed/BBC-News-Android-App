@@ -1,0 +1,15 @@
+<resources>
+
+
+    <dimen name="small_text">12sp</dimen>
+    <dimen name="small_medium_text">14sp</dimen>
+    <dimen name="medium_text">16sp</dimen>
+    <dimen name="large_text">18sp</dimen>
+    <dimen name="extra_large_text">22sp</dimen>
+    <dimen name="title_txt_size">30sp</dimen>
+    <dimen name="dp_16">16dp</dimen>
+    <dimen name="dp_100">100dp</dimen>
+    <dimen name="percentage_txt_size">30sp</dimen>
+
+
+</resources>

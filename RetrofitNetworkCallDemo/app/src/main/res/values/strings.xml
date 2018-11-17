@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BBC NEWS</string>
+
+    <string name="news_title">News Title</string>
+    <string name="news_description">News Description</string>
+
+
+</resources>

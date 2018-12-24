@@ -1,6 +1,6 @@
 # BBC-News-Android-App-
 
-This a simple android app to fetch the latest news(Headlines) of BBC by caling open source api.
+This a simple android app to fetch the latest news(Headlines) of BBC by using open source api.
 
 It also shows image and very short description of the news.
 
